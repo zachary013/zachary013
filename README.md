@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Zakariae Azarkan</h1>
-<h3 align="center">Software Engineering Student</h3>
+<h3 align="center">I'm a Software Engineering Student</h3>
 
 <div align="center">
   <img width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Alt Text" style="margin: 20px 0;">
@@ -13,8 +13,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zachary013" alt="zachary013" /></a> </p>
 
-- 🔭 I’m currently working on **eCommerce project with Laravel + Vue.js**
-- 🌱 I’m currently learning **Laravel, Vue.js, Node.js**
+- 🔭 I’m currently working on **eCommerce project with Laravel + vue.js**
+- 🌱 I’m currently learning **Laravel, React, Node.js**
 - 💬 Ask me about **Python, Java, C++, HTML, CSS, PHP, Symfony**
 - 📫 How to reach me: **azarkanzakariae@gmail.com**
 - ⚡ Fun fact: **Aliens do exist**
@@ -30,9 +30,12 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
   </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
   <!-- Add more icons for other languages and tools you want to showcase -->
 </p>
 
