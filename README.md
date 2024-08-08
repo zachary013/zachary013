@@ -9,11 +9,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zachary013&label=Profile%20views&color=0e75b6&style=flat" alt="zachary013" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zachary013" alt="zachary013" /></a> </p>
-- 🔭 I’m currently working on **eCommerce project with laravel + vue.js**
+- 🔭 I’m currently working on **MERN stack project**
 
-- 🌱 I’m currently learning **Laravel, React, Node.js**
+- 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Python, Java, C++, HTML, CSS, PHP, Symfony**
+- 💬 Ask me about **Python, Java, C++, HTML, CSS, PHP, Laravel, Vue 3**
 
 - 📫 How to reach me **azarkanzakariae@gmail.com**
 
