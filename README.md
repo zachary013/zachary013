@@ -1,7 +1,7 @@
 <img src="https://c4.wallpaperflare.com/wallpaper/890/239/675/video-games-concept-art-artwork-the-banner-saga-wallpaper-preview.jpg" alt="Banner Image" style="width:100%;">
 
-<h1 align="center">Hi 👋, I'm Zakariae Azarkan</h1>
-<h3 align="center">A Software Engineering Student</h3>
+<h1 align="center">Hi there, I'm Zakariae Azarkan</h1>
+<h3 align="center">A Web Developer & Software Engineering Student</h3>
 <div align="center">
   <img width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Alt Text" style="margin: 20px 0;">
 </div>
@@ -11,9 +11,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zachary013" alt="zachary013" /></a> </p>
 - 🔭 I’m currently working on **MERN stack project**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack developement**
 
-- 💬 Ask me about **Python, Java, C++, HTML, CSS, PHP, Laravel, Vue 3**
+- 💬 Ask me about **Python, Java, C++, HTML, CSS, PHP, JS, Laravel, Vue 3**
 
 - 📫 How to reach me **azarkanzakariae@gmail.com**
 
