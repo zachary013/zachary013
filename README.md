@@ -1,4 +1,5 @@
 <img src="https://img.freepik.com/free-photo/cosmic-background-with-colorful-laser-lights-perfect-digital-wallpaper_181624-32870.jpg?t=st=1723293981~exp=1723297581~hmac=6b9ddee5fdef2bd0f1c20c19f528da8f35a1917d44b8df94bd8397315c625ac4&w=2000" alt="Banner Image" style="width:100%;">
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zachary013&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
 
 <h1 align="center" style="color: #ff69b4; animation: fadeIn 2s ease-in-out;"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=Hi+There%2C+I+am+Zakariae+Azarkan" alt="Typing SVG" /></a> </h1>
