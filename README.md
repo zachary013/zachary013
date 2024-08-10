@@ -44,7 +44,7 @@
 
 ### 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,git,github,laravel,symfony,react,vue,mysql,mongodb,postgresql,java,python,androidstudio,tailwindcss,bootstrap,pinia,quasar,c,c#,cpp,figma,vscode,bash,linux,nodejs&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,git,github,laravel,symfony,react,vue,mysql,mongodb,postgresql,java,python,androidstudio,tailwindcss,bootstrap,pinia,unity,c,c#,cpp,figma,vscode,npm,linux,sass,node&perline=8)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
