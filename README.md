@@ -51,7 +51,7 @@
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express&perline=9)](https://skillicons.dev)
 
 ### 🗄️ Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,c#&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,cs&perline=9)](https://skillicons.dev)
 
 
 ### 🗄️ Databases
