@@ -1,4 +1,4 @@
-<img src="https://c4.wallpaperflare.com/wallpaper/890/239/675/video-games-concept-art-artwork-the-banner-saga-wallpaper-preview.jpg" alt="Banner Image" style="width:100%;">
+<img src="[https://c4.wallpaperflare.com/wallpaper/890/239/675/video-games-concept-art-artwork-the-banner-saga-wallpaper-preview.jpg](https://img.freepik.com/free-photo/cyberpunk-city-street-night-with-neon-lights-futuristic-aesthetic_23-2151488768.jpg?t=st=1723293490~exp=1723297090~hmac=d7c25a9928cdcc0106b4dc552eb420dc18430cca5f0ee32d365551b81e07031f&w=2000)" alt="Banner Image" style="width:100%;">
 
 <h1 align="center" style="color: #ff69b4; animation: fadeIn 2s ease-in-out;">Hi there, I'm Zakariae Azarkan 👋</h1>
 <h3 align="center" style="color: #00ffff; animation: fadeIn 2s ease-in-out;">A Passionate Web Developer & Software Engineering Student</h3>
