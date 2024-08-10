@@ -123,51 +123,6 @@
 
 ---
 
-### 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/zachary013/my-project/pull/1) in [zachary013/my-project](https://github.com/zachary013/my-project)
-2. 💪 Opened PR [#2](https://github.com/zachary013/another-project/pull/2) in [zachary013/another-project](https://github.com/zachary013/another-project)
-<!--END_SECTION:activity-->
-
----
-
-### ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [My Journey into Web Development](https://yourblog.com/my-journey-into-web-development)
-- [How to Get Started with Python](https://yourblog.com/how-to-get-started-with-python)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🎨 Illustrations & Designs
-
-<p align="center">
-  <img src="https://your-illustrations-link.com" alt="Illustrations" style="width:100%; border-radius: 10px;"/>
-</p>
-
----
-
-### 🌟 Projects & Contributions
-
-- 🚀 [Awesome Project 1](https://github.com/zachary013/awesome-project-1) - A brief description of the project.
-- 🚀 [Awesome Project 2](https://github.com/zachary013/awesome-project-2) - A brief description of the project.
-
----
-
-### 📝 License
-
-This profile is licensed under the [MIT License](https://github.com/zachary013/your-profile/blob/main/LICENSE).
-
----
-
-### 💼 Experience
-
-- 🏢 [Company 1](https://company1.com) - Role, Dates
-- 🏢 [Company 2](https://company2.com) - Role, Dates
-
----
 
 <p align="center">
   <a href="https://github.com/zachary013">
