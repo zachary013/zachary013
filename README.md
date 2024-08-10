@@ -20,7 +20,7 @@
 ---
 
 ### 🚀 About Me
-
+<div align="center">
 - 🔭 I’m currently working on a **MERN stack project**
   
 - 🌱 I’m learning **MERN stack development**
@@ -30,7 +30,7 @@
 - 📫 How to reach me: **azarkanzakariae@gmail.com**
   
 - ⚡ Fun fact: **Aliens do exist**
-
+</div>
 ---
 
 ### 🌐 Connect with Me
