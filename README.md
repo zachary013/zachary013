@@ -4,7 +4,7 @@
 <h3 align="center" style="color: #00ffff; animation: fadeIn 2s ease-in-out;">A Passionate Web Developer & Software Engineering Student</h3>
 
 <div align="center">
-  <img width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Coding Animation" style="margin: 20px 0; animation: bounce 2s infinite;">
+  <img width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZpbjd6MGNpcHEwOXdyd3NseHB3bHd5bHY2YnIyb2Flb2I2NHdweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding Animation" style="margin: 20px 0; animation: bounce 2s infinite;">
 </div>
 
 <p align="center">
