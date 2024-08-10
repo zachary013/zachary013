@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/premium-photo/cyberpunk-streets-illustration-futuristic-city-dystoptic-artwork-night-4k-wallpaper_855932-6644.jpg?w=2000" alt="Banner Image" style="width:100%;">
+<img src="https://img.freepik.com/free-photo/cosmic-background-with-colorful-laser-lights-perfect-digital-wallpaper_181624-32870.jpg?t=st=1723293981~exp=1723297581~hmac=6b9ddee5fdef2bd0f1c20c19f528da8f35a1917d44b8df94bd8397315c625ac4&w=2000" alt="Banner Image" style="width:100%;">
 
 <h1 align="center" style="color: #ff69b4; animation: fadeIn 2s ease-in-out;">Hi there, I'm Zakariae Azarkan 👋</h1>
 <h3 align="center" style="color: #00ffff; animation: fadeIn 2s ease-in-out;">A Passionate Web Developer & Software Engineering Student</h3>
