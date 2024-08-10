@@ -45,16 +45,20 @@
 ### 🛠️ Languages and Tools
 
 ### 🌐 Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap,tailwindcss,sass,figma&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap,tailwindcss,sass,vite&perline=9)](https://skillicons.dev)
 
 ### 🛠️ Back-End
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,java,python,c,cpp,csharp,electron,unity&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express&perline=9)](https://skillicons.dev)
+
+### 🗄️ Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,csharp&perline=9)](https://skillicons.dev)
+
 
 ### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql&perline=9)](https://skillicons.dev)
 
 ### ⚙️ Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,npm,androidstudio,vite&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,electron,capacitor,vscode,npm,androidstudio,unity,&perline=9)](https://skillicons.dev)
 
 
 
