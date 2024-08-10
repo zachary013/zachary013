@@ -21,17 +21,19 @@
 
 ### 🚀 About Me
 <div align="center">
-- 🔭 I’m currently working on a **MERN stack project**
   
-- 🌱 I’m learning **MERN stack development**
+   🔭 I’m currently working on a **MERN stack project**
   
-- 💬 Ask me about **Python, Java, C++, HTML, CSS, PHP, JS, Laravel, Vue 3**
+   🌱 I’m learning **MERN stack development**
   
-- 📫 How to reach me: **azarkanzakariae@gmail.com**
+   💬 Ask me about **Python, Java, C++, HTML, CSS, PHP, JS, Laravel, Vue 3**
   
-- ⚡ Fun fact: **Aliens do exist**
+   📫 How to reach me: **azarkanzakariae@gmail.com**
+  
+   ⚡ Fun fact: **Aliens do exist**
+
+ 
 </div>
----
 
 ### 🌐 Connect with Me
 
