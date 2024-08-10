@@ -2,7 +2,7 @@
 
 <h1 align="center" style="color: #ff69b4; animation: fadeIn 2s ease-in-out;">Hi there, I'm Zakariae Azarkan 👋</h1>
 <h3 align="center" style="color: #00ffff; animation: fadeIn 2s ease-in-out;">A Passionate Web Developer & Software Engineering Student</h3>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There%2C+I'm+Zakariae+Azarkan" alt="Typing SVG" /></a>
 <div align="center">
   <img width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZpbjd6MGNpcHEwOXdyd3NseHB3bHd5bHY2YnIyb2Flb2I2NHdweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding Animation" style="margin: 20px 0; animation: bounce 2s infinite;">
 </div>
