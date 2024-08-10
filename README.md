@@ -22,9 +22,13 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on a **MERN stack project**
+  
 - 🌱 I’m learning **MERN stack development**
+  
 - 💬 Ask me about **Python, Java, C++, HTML, CSS, PHP, JS, Laravel, Vue 3**
+  
 - 📫 How to reach me: **azarkanzakariae@gmail.com**
+  
 - ⚡ Fun fact: **Aliens do exist**
 
 ---
