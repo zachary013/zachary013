@@ -50,7 +50,7 @@
   <h2 style="font-weight: bold; font-size: 1.3em;">🌟 I’m learning <span style="color: #61dafb;">MERN stack development</span></h2>
   <h2 style="font-weight: bold; font-size: 1.3em;">💡 Ask me about <span style="color: #61dafb;">Python, Java, C++, HTML, CSS, PHP, JS, Laravel, Vue 3</span></h2>
   <h2 style="font-weight: bold; font-size: 1.3em;">📧 How to reach me: <span style="color: #61dafb;">azarkanzakariae@gmail.com</span></h2>
-  <h2 style="font-weight: bold; font-size: 1.3em;">🎉 Fun fact: <span style="color: #61dafb;">Aliens do exist</span></h2>
+  <h2 style="font-weight: bold; font-size: 1.3em;"> Fun fact: <span style="color: #61dafb;">Aliens do exist</span></h2>
 
 </div>
 
