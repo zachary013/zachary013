@@ -48,7 +48,7 @@
 ---
 
 
-### 🛠️ Tools and Softwares
+### My skills
 <div align="center">
   
   ### 🌐 Front-End
