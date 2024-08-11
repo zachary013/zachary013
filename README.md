@@ -28,8 +28,9 @@
 
 ---
 
-### 🚀 About Me
 <div align="center">
+
+    ### 🚀 About Me
   
    🔭 I’m currently working on a **MERN stack project**
   
