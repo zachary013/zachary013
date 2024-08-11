@@ -1,4 +1,4 @@
-<img src="https://www.freepik.com/free-photo/light-darkness_9931004.htm#query=cyberpunk%20wallpaper&position=17&from_view=keyword&track=ais_hybrid&uuid=be84ad2e-5c91-4721-8aa7-66bdd9ad88dc" alt="Banner Image" style="width:100%;">
+<img src="https://img.freepik.com/free-photo/light-darkness_181624-10465.jpg?w=2000&t=st=1723374237~exp=1723374837~hmac=56abbeb6a9f42bc08488a0dd5fea69dfda35496e3bde75d45748c883e6c68601" alt="Banner Image" style="width:100%;">
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zachary013&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
 
