@@ -14,22 +14,19 @@
   <a href="">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/zakariae-azarkan-8b49a12b8/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="">
+  <a href="https://github.com/zachary013">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="">
+  <a href="https://leetcode.com/u/zakariae_azarkan/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
   </a>
-  <a href="">
+  <a href="https://www.pinterest.com/azarkanzakariae/_created/">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
   </a>
-  <a href="">
+  <a href="https://stackoverflow.com/users/24866459/zakariae-azarkan">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>
   
