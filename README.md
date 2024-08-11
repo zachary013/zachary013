@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-photo/cosmic-background-with-colorful-laser-lights-perfect-digital-wallpaper_181624-32870.jpg?t=st=1723293981~exp=1723297581~hmac=6b9ddee5fdef2bd0f1c20c19f528da8f35a1917d44b8df94bd8397315c625ac4&w=2000" alt="Banner Image" style="width:100%;">
+<img src="https://www.freepik.com/free-photo/light-darkness_9931004.htm#query=cyberpunk%20wallpaper&position=17&from_view=keyword&track=ais_hybrid&uuid=be84ad2e-5c91-4721-8aa7-66bdd9ad88dc" alt="Banner Image" style="width:100%;">
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zachary013&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
 
