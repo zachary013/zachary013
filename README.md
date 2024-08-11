@@ -46,19 +46,18 @@
 
 <div align="center">
 
+  <h2 style="font-weight: bold; font-size: 1.5em;">🚀 I’m currently working on a <span style="color: #61dafb;">MERN stack project</span></h2>
   
-   🔭 I’m currently working on a **MERN stack project**
+  <h2 style="font-weight: bold; font-size: 1.5em;">🌟 I’m learning <span style="color: #61dafb;">MERN stack development</span></h2>
   
-   🌱 I’m learning **MERN stack development**
+  <h2 style="font-weight: bold; font-size: 1.5em;">💡 Ask me about <span style="color: #61dafb;">Python, Java, C++, HTML, CSS, PHP, JS, Laravel, Vue 3</span></h2>
   
-   💬 Ask me about **Python, Java, C++, HTML, CSS, PHP, JS, Laravel, Vue 3**
+  <h2 style="font-weight: bold; font-size: 1.5em;">📧 How to reach me: <span style="color: #61dafb;">azarkanzakariae@gmail.com</span></h2>
   
-   📫 How to reach me: **azarkanzakariae@gmail.com**
-  
-   ⚡ Fun fact: **Aliens do exist**
+  <h2 style="font-weight: bold; font-size: 1.5em;">🎉 Fun fact: <span style="color: #61dafb;">Aliens do exist</span></h2>
 
- 
 </div>
+
 
 
 ---
