@@ -33,6 +33,9 @@
 </div>
 
 ---
+
+### 🏆 Trophies
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=zachary013&margin-w=15&column=8&theme=onedark" alt="Trophies" />
@@ -60,7 +63,7 @@
 ---
 
 
-### My skills
+### 👨🏼‍💻 My skills
 <div align="center">
   
   ### 🌐 Front-End
