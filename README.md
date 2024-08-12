@@ -45,7 +45,7 @@
 ---
 
 
-### 🚀 About Me
+### ℹ️ About Me
 
 
 <div align="center">
