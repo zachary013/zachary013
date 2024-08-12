@@ -112,3 +112,20 @@
     <img src="https://img.shields.io/twitter/follow/your_twitter_handle?label=Follow&style=social" alt="Twitter Followers"/>
   </a>
 </p>
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/{zachary013}/{zachary013}/output/github-contribution-grid-snake-dark.svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
