@@ -34,9 +34,9 @@
 
 ---
 
-### 🏆 Trophies
-
 <p align="center">
+  <h2>🏆 Trophies</h2>
+  <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=zachary013&margin-w=15&column=8&theme=onedark" alt="Trophies" />
   </a>
@@ -45,11 +45,10 @@
 ---
 
 
-### ℹ️ About Me
-
-
 <div align="center">
 
+  <h2>ℹ️ About Me</h2>
+  <br/>
   <h2 style="font-size: 1.3em;">🚀 I’m currently working on a <span style="color: #61dafb;">MERN stack project</span></h2>
   <h2 style="font-size: 1.3em;">🌟 I’m learning <span style="color: #61dafb;">MERN stack development</span></h2>
   <h2 style="font-size: 1.3em;">💡 Ask me about <span style="color: #61dafb;">Python, Java, C++, HTML, CSS, PHP, JS, Laravel, Vue 3</span></h2>
@@ -89,9 +88,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
+  <h2>📊 GitHub Stats</h2>
+  <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zachary013&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
@@ -105,7 +104,7 @@
 
 
 <div align="center">
-  <h2>My Contributions</h2>
+  <h2>🐍 My Contributions</h2>
   <br/>
   <img src="https://raw.githubusercontent.com/zachary013/zachary013/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
   <br/><br/><br/>
