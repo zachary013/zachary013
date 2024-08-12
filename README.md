@@ -104,8 +104,7 @@
 ---
 
 
-![Snake animation](https://raw.githubusercontent.com/{zachary013}/{zachary013}/output/github-contribution-grid-snake-dark.svg)
-
+![Snake animation](https://raw.githubusercontent.com/zachary013/zachary013/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
