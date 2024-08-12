@@ -104,7 +104,12 @@
 ---
 
 
-![Snake animation](https://raw.githubusercontent.com/zachary013/zachary013/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <h2>My Contributions</h2>
+  <br/>
+  <img src="https://raw.githubusercontent.com/zachary013/zachary013/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+  <br/><br/><br/>
+</div>
 
 ---
 
