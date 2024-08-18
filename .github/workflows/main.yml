@@ -1,6 +1,5 @@
-
-name: Generate snake game
-
+name: Snake game generator from Github contributions
+            
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
@@ -19,7 +18,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake2.svg
           snake_color: 'blue'
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: Sutil/snk@v01.00.02
         with:
           target_branch: output
           build_dir: dist
