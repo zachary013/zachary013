@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-photo/light-darkness_181624-10465.jpg?w=2000&t=st=1723374237~exp=1723374837~hmac=56abbeb6a9f42bc08488a0dd5fea69dfda35496e3bde75d45748c883e6c68601" alt="Banner Image" style="width:100%;">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVpeGVhZ2lwYWxtc29leDhyOWIwNGZkeWV5ZGhmbG5uaDU3dDRlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" alt="Banner Image" style="width:100%;">
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zachary013&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
 
