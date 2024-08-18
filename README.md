@@ -6,7 +6,7 @@
 <h3 align="center" style="color: #00ffff; animation: fadeIn 2s ease-in-out;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=2000&color=DE3163&multiline=true&width=435&lines=A+Software+Engineering+Student" alt="Typing SVG" /></a></h3>
 
 <div align="center">
-  <img width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZpbjd6MGNpcHEwOXdyd3NseHB3bHd5bHY2YnIyb2Flb2I2NHdweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding Animation" style="margin: 20px 0; animation: bounce 2s infinite;">
+  <img width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZoY3d2ZXdvYmg5YWJ2czd1aThmaDljcDk2NGV0M2R1aDEwY3U3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.gif" alt="Coding Animation" style="margin: 20px 0; animation: bounce 2s infinite;">
 </div>
 
 
