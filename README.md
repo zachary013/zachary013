@@ -105,8 +105,7 @@
 ### 🐍 My Contributions
 
 <div align="center">
-  ![snake animation](https://github.com/zachary013/zachary013/blob/output/github-contribution-grid-snake2.svg)
-  <img src="https://raw.githubusercontent.com/zachary013/zachary013/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+  <img @media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/zachary013/zachary013/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
   <br/><br/><br/>
 </div>
 
