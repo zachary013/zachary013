@@ -7,6 +7,7 @@
 
 <div align="center">
   <img width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZoY3d2ZXdvYmg5YWJ2czd1aThmaDljcDk2NGV0M2R1aDEwY3U3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.webp" alt="Coding Animation">
+  <img width="400" src="https://media.tenor.com/z6_-yfTprlQAAAAC/bubblegum-crisis-cyberpunk-anime.gif" alt="Coding Animation">
 </div>
 
 
