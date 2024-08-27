@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zachary013&margin-w=15&column=5&theme=discord" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=zachary013&margin-w=15&column=4&theme=discord" alt="Trophies" />
   </a>
 </p>
 
