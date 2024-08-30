@@ -66,7 +66,7 @@
 <div align="center">
   
   ### 🌐 Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap,tailwindcss,sass,vite&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap,tailwindcss,sass,vite,electron&perline=9)](https://skillicons.dev)
 
 ### 🛠️ Back-End
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express&perline=9)](https://skillicons.dev)
@@ -79,7 +79,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase&perline=9)](https://skillicons.dev)
 
 ### ⚙️ Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,electron,vscode,npm,androidstudio,unity,&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,npm,androidstudio,unity,&perline=9)](https://skillicons.dev)
 
 </div>
 
