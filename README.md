@@ -46,7 +46,7 @@
 ---
 
 <div align="center">
-  <h2 style="font-size: 1.5em;">🌟 Check Out My Portfolio!</h2>
+  <h2 style="font-size: 1.5em; margin-bottom: 1em;">🌟 Check Out My Portfolio!</h2>
   <a href="https://zakariaeazarkan.vercel.app/" style="text-decoration: none;">
     <button style="
       background-color: #7F00FF; 
@@ -56,8 +56,8 @@
       border-radius: 8px; 
       font-size: 1.2em; 
       cursor: pointer; 
-      transition: transform 0.3s ease, background-color 0.3s ease;
       box-shadow: 0 4px 15px rgba(127, 0, 255, 0.5);
+      transition: background-color 0.3s ease, transform 0.3s ease;
     "
     onmouseover="this.style.backgroundColor='#6a00e0'; this.style.transform='translateY(-3px)';"
     onmouseout="this.style.backgroundColor='#7F00FF'; this.style.transform='translateY(0)';"
