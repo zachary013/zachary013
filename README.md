@@ -46,25 +46,8 @@
 ---
 
 <div align="center">
-  <h2 style="font-size: 1.5em; margin-bottom: 1em;">🌟 Check Out My Portfolio!</h2>
-  <a href="https://zakariaeazarkan.vercel.app/" style="text-decoration: none;">
-    <button style="
-      background-color: #7F00FF; 
-      color: white; 
-      padding: 12px 24px; 
-      border: none; 
-      border-radius: 8px; 
-      font-size: 1.2em; 
-      cursor: pointer; 
-      box-shadow: 0 4px 15px rgba(127, 0, 255, 0.5);
-      transition: background-color 0.3s ease, transform 0.3s ease;
-    "
-    onmouseover="this.style.backgroundColor='#6a00e0'; this.style.transform='translateY(-3px)';"
-    onmouseout="this.style.backgroundColor='#7F00FF'; this.style.transform='translateY(0)';"
-    onmousedown="this.style.transform='translateY(1px)'; this.style.boxShadow='0 2px 10px rgba(127, 0, 255, 0.3)';"
-    onmouseup="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(127, 0, 255, 0.5)';">
-      Visit My Portfolio
-    </button>
+  <a href="https://zakariaeazarkan.vercel.app/">
+    <img src="https://img.shields.io/badge/🌟%20Explore%20My%20Portfolio-7F00FF?style=for-the-badge&logoColor=white&labelColor=8E2DE2" alt="Explore My Portfolio" width="300">
   </a>
 </div>
 
