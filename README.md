@@ -45,16 +45,27 @@
 
 ---
 
-### ℹ️ About Me
-
 <div align="center">
-
-  <h2 style="font-size: 1.3em;">🚀 I’m currently working on a <span style="color: #61dafb;">MERN stack project</span></h2>
-  <h2 style="font-size: 1.3em;">🌟 I’m learning <span style="color: #61dafb;">MERN stack development</span></h2>
-  <h2 style="font-size: 1.3em;">💡 Ask me about <span style="color: #61dafb;">Python, Java, C++, HTML, CSS, PHP, JS, Laravel, Vue 3</span></h2>
-  <h2 style="font-size: 1.3em;">📧 How to reach me: <span style="color: #61dafb;">azarkanzakariae@gmail.com</span></h2>
-  <h2 style="font-size: 1.3em;"> Today's quote: <span style="color: #61dafb;">In a world of neon lights, dark futures spark cybernetic dreams. 😎 </span></h2>
-
+  <h2 style="font-size: 1.5em;">🌟 Check Out My Portfolio!</h2>
+  <a href="https://zakariaeazarkan.vercel.app/" style="text-decoration: none;">
+    <button style="
+      background-color: #7F00FF; 
+      color: white; 
+      padding: 12px 24px; 
+      border: none; 
+      border-radius: 8px; 
+      font-size: 1.2em; 
+      cursor: pointer; 
+      transition: transform 0.3s ease, background-color 0.3s ease;
+      box-shadow: 0 4px 15px rgba(127, 0, 255, 0.5);
+    "
+    onmouseover="this.style.backgroundColor='#6a00e0'; this.style.transform='translateY(-3px)';"
+    onmouseout="this.style.backgroundColor='#7F00FF'; this.style.transform='translateY(0)';"
+    onmousedown="this.style.transform='translateY(1px)'; this.style.boxShadow='0 2px 10px rgba(127, 0, 255, 0.3)';"
+    onmouseup="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(127, 0, 255, 0.5)';">
+      Visit My Portfolio
+    </button>
+  </a>
 </div>
 
 
