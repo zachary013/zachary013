@@ -24,8 +24,8 @@
   <a href="https://leetcode.com/u/zakariae_azarkan/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
   </a>
-  <a href="https://www.pinterest.com/azarkanzakariae/_created/">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
+  <a href="https://www.hackerrank.com/profile/azarkanzak22">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
   <a href="https://stackoverflow.com/users/24866459/zakariae-azarkan">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
