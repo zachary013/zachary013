@@ -68,7 +68,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase&perline=9)](https://skillicons.dev)
 
 ### ⚙️ Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,linux,vscode,intellijidea,npm,androidstudio,unity,&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,linux,vscode,npm,androidstudio,unity,&perline=9)](https://skillicons.dev)
 
 ### 🛠️ DevOps
 [![My Skills](https://skillicons.dev/icons?i=docker&perline=9)](https://skillicons.dev)
