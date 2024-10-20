@@ -55,7 +55,7 @@
 <div align="center">
   
   ### 🌐 Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,next,redux,tailwindcss,sass,vite,electron&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,next,redux,tailwindcss,sass,vite,electron&perline=11)](https://skillicons.dev)
 
 ### 🛠️ Back-End
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express,spring&perline=9)](https://skillicons.dev)
