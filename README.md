@@ -55,10 +55,10 @@
 <div align="center">
   
   ### 🌐 Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,next,tailwindcss,sass,vite,electron&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,next,redux,tailwindcss,sass,vite,electron&perline=10)](https://skillicons.dev)
 
 ### 🛠️ Back-End
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express,springboot&perline=9)](https://skillicons.dev)
 
 ### 🗄️ Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,cs&perline=9)](https://skillicons.dev)
@@ -68,7 +68,10 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase&perline=9)](https://skillicons.dev)
 
 ### ⚙️ Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,linux,vscode,npm,androidstudio,unity,&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,linux,vscode,intellij,npm,androidstudio,unity,&perline=9)](https://skillicons.dev)
+
+### 🛠️ DevOps
+[![My Skills](https://skillicons.dev/icons?i=docker&perline=9)](https://skillicons.dev)
 
 </div>
 
