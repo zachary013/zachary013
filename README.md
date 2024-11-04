@@ -82,11 +82,13 @@
 
 ### 📊 GitHub Stats
 
-![zachary013's Stats](https://github-readme-stats.vercel.app/api?username=zachary013&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+<div align="center">
+  ![zachary013's Stats](https://github-readme-stats.vercel.app/api?username=zachary013&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 
-![zachary013's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zachary013&theme=midnight-purple&hide_border=false)
+  ![zachary013's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zachary013&theme=midnight-purple&hide_border=false)
 
-![zachary013's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachary013&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+  ![zachary013's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachary013&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+</div>
 
 ---
 
