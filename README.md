@@ -82,15 +82,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zachary013&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachary013&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachary013&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![zachary013's Stats](https://github-readme-stats.vercel.app/api?username=zachary013&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 
 ---
 
