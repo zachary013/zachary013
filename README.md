@@ -82,17 +82,15 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <picture>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zachary013&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117"/>
-  </picture>
-  <picture>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zachary013&theme=midnight-purple&hide_border=true&background=0D1117"/>
-  </picture>
-  <picture>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachary013&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117"/>
-  </picture>
-</div>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zachary013&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachary013&theme=midnight-purple" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachary013&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Top Languages" />
+</p>
 
 </div>
 
