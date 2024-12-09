@@ -2,8 +2,8 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zachary013&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
 
-<h1 align="center" style="color: #ff69b4; animation: fadeIn 2s ease-in-out;"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=Hi+There%2C+I+am+Zakariae+Azarkan" alt="Typing SVG" /></a> </h1>
-<h3 align="center" style="color: #00ffff; animation: fadeIn 2s ease-in-out;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=2000&color=DE3163&multiline=true&width=435&lines=A+Software+Engineering+Student" alt="Typing SVG" /></a></h3>
+<h1 align="center" style="color: #ff69b4; animation: fadeIn 2s ease-in-out;"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=Get+The+Fuck+Out+Stalker" alt="Typing SVG" /></a> </h1>
+<h3 align="center" style="color: #00ffff; animation: fadeIn 2s ease-in-out;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=2000&color=DE3163&multiline=true&width=435&lines=I+AM+A+Software+Engineering+Student" alt="Typing SVG" /></a></h3>
 
 <div align="center">
   <img width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZoY3d2ZXdvYmg5YWJ2czd1aThmaDljcDk2NGV0M2R1aDEwY3U3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.webp" alt="Coding Animation">
