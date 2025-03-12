@@ -71,7 +71,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,linux,bash,vscode,npm,androidstudio,unity,electron&perline=12)](https://skillicons.dev)
 
 ### ☁️♾️ DevOps & Cloud
-[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,githubactions,kubernetes,terraform,grafana,prometheus,aws,azure&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,githubactions,kubernetes,terraform,grafana,prometheus,aws,digitalocean&perline=9)](https://skillicons.dev)
 
 </div>
 
