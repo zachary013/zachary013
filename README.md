@@ -6,8 +6,8 @@
 <h3 align="center" style="color: #00ffff; animation: fadeIn 2s ease-in-out;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=2000&color=DE3163&multiline=true&width=435&lines=I+AM+A+Software+Engineering+Student" alt="Typing SVG" /></a></h3>
 
 <div align="center">
-  <img width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamEzcG92eDR2bmV5c3loODc0NWtsOHBiN2RraGE4NHl3dTVybWtpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9WC8WTZsFxkRi/giphy.gif" alt="Coding Animation">
   <img width="400" src="https://i.gifer.com/y7.gif">
+  <img width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamEzcG92eDR2bmV5c3loODc0NWtsOHBiN2RraGE4NHl3dTVybWtpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9WC8WTZsFxkRi/giphy.gif" alt="Coding Animation">
 </div>
 
 
