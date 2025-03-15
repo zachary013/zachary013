@@ -1,8 +1,4 @@
-<div style="text-align: center;">
-    <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-100.gif" 
-         alt="Banner Image" 
-         style="width: 50%; display: block; margin: auto;">
-</div>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVpeGVhZ2lwYWxtc29leDhyOWIwNGZkeWV5ZGhmbG5uaDU3dDRlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" alt="Banner Image" style="width:100%;">
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zachary013&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
 
