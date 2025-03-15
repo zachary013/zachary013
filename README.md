@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjE2cTd0cG1sNTJoaG1yeTl1b3RwaDBhc2V4cHF6MmEyM3Y5MmNsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTTAjM197sku8MgrRa/giphy.gif" alt="Banner Image" style="width:100%;">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVtam44Znpvc2VjZTZnOTBmZzM5bjRsYndkOXoybGlhejNhYzh3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fdOA43sHFE6Pu/giphy.gif" alt="Banner Image" style="width:100%;">
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zachary013&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
 
