@@ -1,4 +1,8 @@
-<img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-100.gif" alt="Banner Image" style="width:100%;">
+<div style="text-align: center;">
+    <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-100.gif" 
+         alt="Banner Image" 
+         style="width: 50%; display: block; margin: auto;">
+</div>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zachary013&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
 
