@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/af/6c/f6/af6cf6681d5cb9eaf7433e38ad9759ec.jpg" alt="Banner Image" style="width:100%;">
+<img src="https://i.pinimg.com/474x/44/29/aa/4429aa0ce619456aa8ab76e8dcad8116.jpg" alt="Banner Image" style="width:100%;">
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zachary013&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
 
