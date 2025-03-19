@@ -10,26 +10,71 @@
   <img width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamEzcG92eDR2bmV5c3loODc0NWtsOHBiN2RraGE4NHl3dTVybWtpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9WC8WTZsFxkRi/giphy.gif" alt="Coding Animation">
 </div>
 
-<!-- Social Icons -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 20px;">
-  <a href="" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?logo=facebook&logoColor=white" style="width: 150px; height: 40px; font-family: Arial, sans-serif; font-weight: bold; font-size: 16px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-  </a>
-  <a href="https://www.linkedin.com/in/zakariae-azarkan-8b49a12b8/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?logo=linkedin&logoColor=white" style="width: 150px; height: 40px; font-family: Arial, sans-serif; font-weight: bold; font-size: 16px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-  </a>
-  <a href="https://github.com/zachary013" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GITHUB-100000?logo=github&logoColor=white" style="width: 150px; height: 40px; font-family: Arial, sans-serif; font-weight: bold; font-size: 16px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-  </a>
-  <a href="https://leetcode.com/u/zakariae_azarkan/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LEETCODE-FFA116?logo=leetcode&logoColor=black" style="width: 150px; height: 40px; font-family: Arial, sans-serif; font-weight: bold; font-size: 16px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-  </a>
-  <a href="https://www.hackerrank.com/profile/azarkanzak22" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/HACKERRANK-2EC866?logo=hackerrank&logoColor=white" style="width: 150px; height: 40px; font-family: Arial, sans-serif; font-weight: bold; font-size: 16px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-  </a>
-  <a href="https://stackoverflow.com/users/24866459/zakariae-azarkan" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/STACK_OVERFLOW-FE7A16?logo=stackoverflow&logoColor=white" style="width: 150px; height: 40px; font-family: Arial, sans-serif; font-weight: bold; font-size: 16px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-  </a>
+---
+
+<div align="center">
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <p>Discover my work and connect on these platforms!</p>
+
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.kenangain.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
+          <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.instagram.com/knightgamer87/" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://facebook.com/kenan.gain" target="_blank">
+          <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitch.tv/knightgamer2910" target="_blank">
+          <img src="https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://x.com/gain_kenan" target="_blank">
+          <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.reddit.com/user/Automated_Artistry" target="_blank">
+          <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
+          <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/KenanGain" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
