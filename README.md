@@ -116,7 +116,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zachary013&custom_title=Zakaria's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=##9644f5&line=##9644f5&point=#9644f5&area_color=000000&title_color=##9644f5&area=true" alt="GitHub Activity Graph" style="margin-bottom: 20px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zachary013&custom_title=Zakaria's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFFFFF&line=9644F5&point=9644F5&area_color=000000&title_color=9644F5&area=true" alt="GitHub Activity Graph" style="margin-bottom: 20px;" />
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zachary013&show_icons=true&locale=en&theme=radical&hide_border=true&border_radius=15" alt="GitHub Stats" style="margin-bottom: 20px;" />
   <br>
