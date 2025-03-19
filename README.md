@@ -32,6 +32,28 @@
   </a>
 </div>
 
+<!-- Social Icons -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 20px;">
+  <a href="" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?logo=facebook&logoColor=white" style="width: 150px; height: 40px; font-family: Arial, sans-serif; font-weight: bold; font-size: 16px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+  </a>
+  <a href="https://www.linkedin.com/in/zakariae-azarkan-8b49a12b8/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?logo=linkedin&logoColor=white" style="width: 150px; height: 40px; font-family: Arial, sans-serif; font-weight: bold; font-size: 16px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+  </a>
+  <a href="https://github.com/zachary013" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GITHUB-100000?logo=github&logoColor=white" style="width: 150px; height: 40px; font-family: Arial, sans-serif; font-weight: bold; font-size: 16px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+  </a>
+  <a href="https://leetcode.com/u/zakariae_azarkan/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?logo=leetcode&logoColor=black" style="width: 150px; height: 40px; font-family: Arial, sans-serif; font-weight: bold; font-size: 16px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+  </a>
+  <a href="https://www.hackerrank.com/profile/azarkanzak22" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/HACKERRANK-2EC866?logo=hackerrank&logoColor=white" style="width: 150px; height: 40px; font-family: Arial, sans-serif; font-weight: bold; font-size: 16px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+  </a>
+  <a href="https://stackoverflow.com/users/24866459/zakariae-azarkan" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/STACK_OVERFLOW-FE7A16?logo=stackoverflow&logoColor=white" style="width: 150px; height: 40px; font-family: Arial, sans-serif; font-weight: bold; font-size: 16px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+  </a>
+</div>
+
 ---
 
 ### 🏆 Trophies
