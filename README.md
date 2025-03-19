@@ -20,44 +20,34 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.kenangain.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
-        </a>
-      </td>
-      <td align="center">
         <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
           <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
         </a>
       </td>
       <td align="center">
-        <a href="https://www.instagram.com/knightgamer87/" target="_blank">
+        <a href="" target="_blank">
           <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
         </a>
       </td>
       <td align="center">
-        <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
+        <a href="https://www.linkedin.com/in/zakariae-azarkan/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://facebook.com/kenan.gain" target="_blank">
+        <a href="" target="_blank">
           <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
         </a>
       </td>
       <td align="center">
-        <a href="https://twitch.tv/knightgamer2910" target="_blank">
+        <a href="https://twitch.tv/" target="_blank">
           <img src="https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
         </a>
       </td>
       <td align="center">
-        <a href="https://x.com/gain_kenan" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.reddit.com/user/Automated_Artistry" target="_blank">
+        <a href="https://www.reddit.com/user/Icy_Particular_8224/" target="_blank">
           <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
         </a>
       </td>
@@ -69,7 +59,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/KenanGain" target="_blank">
+        <a href="https://github.com/zachary013" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
         </a>
       </td>
