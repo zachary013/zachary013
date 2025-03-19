@@ -89,7 +89,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachary013&theme=midnight-purple" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachary013&show_icons=true&locale=en&layout=donut&theme=midnight-purple&hide=html,css" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachary013&show_icons=true&locale=en&layout=donut&theme=midnight-purple&langs_count=8&hide=html,css" alt="Top Languages" />
 </p>
 
 </div>
