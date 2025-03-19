@@ -115,7 +115,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div aligh = "center">
+  <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zachary013&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats" />
 </p>
 <p align="center">
@@ -124,8 +125,8 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachary013&show_icons=true&locale=en&layout=donut&theme=midnight-purple&langs_count=8&hide=html,css" alt="Top Languages" />
 </p>
-
 </div>
+
 
 ---
 
