@@ -19,13 +19,30 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
-          <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+        <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
+          <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
         </a>
       </td>
       <td align="center">
-        <a href="" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+        <a href="https://github.com/zachary013" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://leetcode.com/u/zakariae_azarkan/" target="_blank">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://twitch.tv/" target="_blank">
+          <img src="https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.reddit.com/user/Icy_Particular_8224/" target="_blank">
+          <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
         </a>
       </td>
       <td align="center">
@@ -37,29 +54,12 @@
     <tr>
       <td align="center">
         <a href="" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+        </a>
+      </td>
+      <td align="center">
+        <a href="" target="_blank">
           <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitch.tv/" target="_blank">
-          <img src="https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.reddit.com/user/Icy_Particular_8224/" target="_blank">
-          <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
-          <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/zachary013" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
         </a>
       </td>
     </tr>
