@@ -115,16 +115,17 @@
 
 ### 📊 GitHub Stats
 
-<div aligh = "center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zachary013&custom_title=Zakaria's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zachary013&custom_title=Zakaria's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" style="margin-bottom: 20px;" />
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zachary013&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zachary013&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&border_radius=15" alt="GitHub Stats" style="margin-bottom: 20px;" />
   <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachary013&theme=midnight-purple" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachary013&theme=midnight-purple&hide_border=true&border_radius=15" alt="GitHub Streak" style="margin-bottom: 20px;" />
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachary013&show_icons=true&locale=en&layout=donut&theme=midnight-purple&langs_count=8&hide=html,css" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachary013&show_icons=true&locale=en&layout=donut&theme=midnight-purple&langs_count=8&hide=html,css&hide_border=true&border_radius=15" alt="Top Languages" style="margin-bottom: 20px;" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zachary013&theme=midnight-purple&hide_border=true&border_radius=15" style="margin-bottom: 20px;">
 </div>
-
 
 ---
 
