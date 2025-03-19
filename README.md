@@ -124,7 +124,7 @@
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachary013&show_icons=true&locale=en&layout=donut&theme=midnight-purple&langs_count=8&hide=html,css&hide_border=true&border_radius=15" alt="Top Languages" style="margin-bottom: 20px;" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zachary013&theme=midnight-purple&hide_border=true&border_radius=15" style="margin-bottom: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zachary013&theme=dracula&hide_border=true&border_radius=15" style="margin-bottom: 20px;">
 </div>
 
 ---
