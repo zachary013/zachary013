@@ -91,7 +91,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,angular,vue,react,next,redux,tailwindcss,sass,vite&perline=11)](https://skillicons.dev)
 
 ### 🛠️ Back-End
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express,spring&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,symfony,flask,express,spring&perline=9)](https://skillicons.dev)
 
 ### 🗄️ Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,cs&perline=9)](https://skillicons.dev)
