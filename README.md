@@ -122,7 +122,7 @@
   <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachary013&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak" style="margin-bottom: 20px;" />
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachary013&show_icons=true&locale=en&layout=donut&theme=radical&langs_count=8&hide=html,css&hide_border=true&border_radius=15" alt="Top Languages" style="margin-bottom: 20px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachary013&show_icons=true&locale=en&layout=donut&theme=radical&langs_count=6&hide=html,css&hide_border=true&border_radius=15" alt="Top Languages" style="margin-bottom: 20px;" />
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zachary013&theme=radical&hide_border=true&border_radius=15" style="margin-bottom: 20px;">
 </div>
