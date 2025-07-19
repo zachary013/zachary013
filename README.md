@@ -103,7 +103,7 @@
 ### ⚙️ Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,linux,bash,vscode,npm,androidstudio,unity,electron&perline=12)](https://skillicons.dev)
 
-### ☁️♾ DevOps & Cloud
+### ☁️ DevOps & Cloud
 [![My Skills](https://skillicons.dev/icons?i=docker,jenkins,githubactions,kubernetes,ansible,terraform,grafana,prometheus,aws&perline=9)](https://skillicons.dev)
 
 ### 📱 Mobile
