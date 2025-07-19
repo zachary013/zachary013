@@ -93,19 +93,21 @@
 ### 🛠️ Back-End
 [![My Skills](https://skillicons.dev/icons?i=laravel,nestjs,flask,express,spring&perline=9)](https://skillicons.dev)
 
-### 🗄️ Programming Languages
+### 💻 Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,cs&perline=9)](https://skillicons.dev)
 
 
-### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase&perline=9)](https://skillicons.dev)
+### 🗃️ Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,oracle&perline=9)](https://skillicons.dev)
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,linux,bash,vscode,npm,androidstudio,unity,electron&perline=12)](https://skillicons.dev)
 
-### ☁️♾️ DevOps & Cloud
+### ☁️♾ DevOps & Cloud
 [![My Skills](https://skillicons.dev/icons?i=docker,jenkins,githubactions,kubernetes,ansible,terraform,grafana,prometheus,aws&perline=9)](https://skillicons.dev)
 
+### 📱 Mobile
+[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio,dotnet&perline=9)](https://skillicons.dev)
 </div>
 
 
