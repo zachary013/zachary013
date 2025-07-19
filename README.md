@@ -98,7 +98,7 @@
 
 
 ### 🗃️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,oracle&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase&perline=9)](https://skillicons.dev)
 
 ### ⚙️ Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,linux,bash,vscode,npm,androidstudio,unity,electron&perline=12)](https://skillicons.dev)
