@@ -53,13 +53,13 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+        <a href="https://gitlab.com/zachary013" target="_blank">
+          <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
         </a>
-      </td>
+    </td>
       <td align="center">
         <a href="" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+          <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
         </a>
       </td>
     </tr>
