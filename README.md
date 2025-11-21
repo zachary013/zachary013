@@ -41,11 +41,6 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.reddit.com/user/Icy_Particular_8224/" target="_blank">
-          <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
-        </a>
-      </td>
-      <td align="center">
         <a href="https://www.linkedin.com/in/zakariae-azarkan/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
