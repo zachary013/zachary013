@@ -2,8 +2,8 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zachary013&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35"></p>
 
-<h1 align="center" style="color: #ff69b4; animation: fadeIn 2s ease-in-out;"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=Hi+There%2C+I+am+Zac" alt="Typing SVG" /></a> </h1>
-<h3 align="center" style="color: #00ffff; animation: fadeIn 2s ease-in-out;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=2000&color=DE3163&multiline=true&width=435&lines=I+AM+A+Software+Engineering+Student" alt="Typing SVG" /></a></h3>
+<h1 align="center" style="color: #ff69b4; animation: fadeIn 2s ease-in-out;"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=Hi+There%2C+I+am+Zakariae" alt="Typing SVG" /></a> </h1>
+<h3 align="center" style="color: #00ffff; animation: fadeIn 2s ease-in-out;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=2000&color=DE3163&multiline=true&width=435&lines=I+AM+A+Software+Engineer" alt="Typing SVG" /></a></h3>
 
 <div align="center">
   <img width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpuc3RvN3VmeWRyejM3ajlkd2t1aHV0dzBrOGxvNmYwb203YWk5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif">
