@@ -1,4 +1,4 @@
-<img src="https://mcdn.wallpapersafari.com/medium/96/21/jHR8t1.gif" alt="Banner Image" style="width:100%;">
+<img src="https://mcdn.wallpapersafari.com/medium/24/28/PkAL9B.png" alt="Banner Image" style="width:100%;">
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zachary013&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35"></p>
 
